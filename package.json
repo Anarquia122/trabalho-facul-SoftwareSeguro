@@ -1,0 +1,17 @@
+{
+  "name": "mundo5-nivel5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Trabalho copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
